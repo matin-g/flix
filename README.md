@@ -16,7 +16,7 @@ Flix is an app that allows users to browse movies from the [The Movie Database A
 
 ### App Walkthrough GIF
 
-<img src="YOUR_GIF_URL_HERE" width=250><br>
+<img src="FlixPt2MatinGhaffari.gif" width=250><br>
 
 ### Notes
 No challenges in particular.
@@ -38,7 +38,7 @@ No challenges in particular.
 
 ### App Walkthrough GIF
 
-![flix-app](FlixMatinGhaffari.gif)
+![flix-app](FlixPt1MatinGhaffari.gif)
 
 ### Notes
 The biggest challenge was the numerous amount of hours spent trying to understand why my app would crash before loading all the movies. This
